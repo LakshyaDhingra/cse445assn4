@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-               xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+               xsi:noNamespaceSchemaLocation="https://LakshyaDhingra.github.io/cse445assn4/NationalParks.xsd">
 
   <NationalPark Rating="4.9" NearestAirport="FlagStaff">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
     <Phone>888-297-2757</Phone>
-    <Phone>866-499-2574</Phone>
     <Address>
       <Number>8</Number>
       <Street>S Entrance Road</Street>
